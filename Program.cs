@@ -6,7 +6,7 @@ namespace dotnet_cal_day_in_month
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("Nhap thang ma ban muon tinh so ngay: ");
+            Console.WriteLine("Which month that you want to count days? ");
             int month = Int32.Parse(Console.ReadLine());
             string daysInMonth;
             switch (month)
