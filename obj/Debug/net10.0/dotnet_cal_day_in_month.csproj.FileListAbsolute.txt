@@ -1,0 +1,14 @@
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\bin\Debug\net10.0\dotnet_cal_day_in_month.exe
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\bin\Debug\net10.0\dotnet_cal_day_in_month.deps.json
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\bin\Debug\net10.0\dotnet_cal_day_in_month.runtimeconfig.json
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\bin\Debug\net10.0\dotnet_cal_day_in_month.dll
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\bin\Debug\net10.0\dotnet_cal_day_in_month.pdb
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.AssemblyInfoInputs.cache
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.AssemblyInfo.cs
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.csproj.CoreCompileInputs.cache
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.dll
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\refint\dotnet_cal_day_in_month.dll
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.pdb
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\dotnet_cal_day_in_month.genruntimeconfig.cache
+C:\Users\hopbq\Documents\dotnet_cal_day_in_month\obj\Debug\net10.0\ref\dotnet_cal_day_in_month.dll
